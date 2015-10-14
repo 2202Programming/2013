@@ -1,0 +1,33 @@
+Wifi Settings for Tim 2013 team 2202 robot Instructions
+
+
+1.Click the wifi icon on the bottom right corner of the TaskBar
+
+2.Click "Open Network and Sharing Center"
+
+3.On the top left side, click "Change Adapter Settings"
+
+4.There should be two Icons: Local Area Connection and Wireless Network Connections
+
+5.Right click Wireless Network Connections
+
+6.Click on properties
+
+7.Click once on "Internet Protocol Version 4(TCP/IPv4)
+
+8.click properties again.
+
+9.In the General Tab, change Obtain an IP address automatically, to "Use the following IP address"
+
+10.For the Subnet Mask input 255:0:0:0
+
+11.For the IP address input the team name 10:22:2:10 //
+the last number can be changed to anyValue, it cannot equal the ip address of the robot/computer
+
+12.The rest should be empty
+
+13.Click "OK"
+
+14.Click "CLOSE"
+
+15.Computer should be able to communicate with the robot
